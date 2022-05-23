@@ -1,0 +1,66 @@
+[
+    {
+        "image": "images/watch1.jpg",
+        "name": "London",
+        "description": "Casual watch",
+        "price": "$199.50"
+
+    },
+
+    {
+        "image": "images/watch4.jpg",
+        "name": "Tokyo",
+        "description": "Casual watch",
+        "price": "$149.75"
+    },
+  
+    {
+        "image": "images/watch3.jpg",
+        "name": "Berlin",
+        "description": "Casual watch",
+        "price": "$199.90"
+
+    },
+
+    {
+        "image": "images/watch4.jpg",
+        "name": "Manila",
+        "description": "Casual watch",
+        "price": "$179.40"
+
+    },
+  
+    {
+        "image": "images/watch5.jpg",
+        "name": "Cairo",
+        "description": "Casual watch",
+        "price": "$249.50"
+
+    },
+
+    {
+        "image": "images/watch6.png",
+        "name": "Denver",
+        "description": "Casual watch",
+        "price": "$299.50"
+    },
+    {
+        "image": "images/watch7.png",
+        "name": "Paris",
+        "description": "Casual watch",
+        "price": "$135.99"
+
+    },
+
+    {
+        "image": "images/watch8.png",
+        "name": "Helsinki",
+        "description": "Casual watch",
+        "price": "$229.50"
+
+    }
+
+  
+
+    
+]
